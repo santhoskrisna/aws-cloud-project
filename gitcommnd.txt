@@ -1,0 +1,63 @@
+1  clear 
+    2  ls 
+    3  git clone https://github.com/santhoskrisna/aws-cloud-project.git
+    4  sudo git clone https://github.com/santhoskrisna/aws-cloud-project.git
+    5  sudo yum install git -y 
+    6  clear 
+    7  sudo git clone https://github.com/santhoskrisna/aws-cloud-project.git
+    8  ls \
+    9  ls 
+   10  cd aws-cloud-project/
+   11  ls
+   12  git version
+   13  nano main.tf 
+   14  ls 
+   15  git status 
+   16  git add main.tf 
+   17  git status 
+   18  ls 
+   19  cd aws-cloud-project/
+   20  ls
+   21  sudo nano main.tf 
+   22  git add main.tf 
+   23  git commit -m "tf file updated"
+   24  git status 
+   25  git push origin main 
+   26  ls 
+   27  cd aws-cloud-project/
+   28  git push origin main 
+   29  git pull origin main 
+   30  git log 
+   31  ls 
+   32  git branch
+   33  git branch 
+   34  cd aws-cloud-project/
+   35  git branch 
+   36  git branch s3-feature 
+   37  git branch 
+   38  git checkout s3-feature 
+   39  git branch 
+   40  echo "welcome s3-feature" >> README.md 
+   41  cat README.md 
+   42  git add README.md 
+   43  git commit -m "first chnage s3"
+   44  git log 
+   45  git merge feature-branch 
+   46  git checkout main 
+   47  git branch 
+   48  git merge s3-feature 
+   49  git checkout main 
+   50  git merge s3-feature 
+   51  git branch -d s3-feature 
+   52  history 
+   53  sudo nano git command.txt
+   54  ls 
+   55  cat git 
+   56  ls 
+   57  pwd 
+   58  ls 
+   59  aws 
+   60  cd aws-cloud-project/
+   61  ls 
+   62  sudo nano gitcommnd.txt 
+   63  history 
